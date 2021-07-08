@@ -55,8 +55,12 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 
 ## Resources
 https://docs.launchdarkly.com/guides/platform-specific/static-sites
+
 https://www.gatsbyjs.com/plugins/gatsby-plugin-launchdarkly/
+
 https://app.launchdarkly.com/settings/projects
+
 Sample project: https://launchdarkly.com/blog/flying-feature-flags-with-launchdarklys-new-plugin-for-gatsby/
+
 http://localhost:8000/![image](https://user-images.githubusercontent.com/12647906/124991080-34ce5200-e00f-11eb-9372-107425105da2.png)
 
